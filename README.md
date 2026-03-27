@@ -83,10 +83,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundankr93&theme=radical&hide_border=true&layout=compact)
 
 ---
+
+
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=kundankr93&theme=radical&no-frame=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=kundankr93&theme=onestar&margin-w=10)
 
-## 👀 Profile Views
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=kundankr93&icon=5&color=12)
+---
