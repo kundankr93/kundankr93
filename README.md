@@ -83,12 +83,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundankr93&theme=radical&hide_border=true&layout=compact)
 
 ---
-
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=kundankr93&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
+![](https://github-profile-trophy.vercel.app/?username=kundankr93&theme=radical&no-frame=true&margin-w=8)
 
 ## 👀 Profile Views
 
