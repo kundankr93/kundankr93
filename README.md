@@ -78,8 +78,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=kundankr93&theme=radical&hide_border=true&cache_seconds=86400)
 ![](https://github-readme-streak-stats.herokuapp.com?user=kundankr93&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundankr93&theme=radical&hide_border=true&layout=compact)
