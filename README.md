@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kundan Kumar
 
 🎓 B.Tech IT (3rd Year) | NIT Raipur  
-💻 Aspiring Product Engineer | Full Stack Developer  
+💻 Aspiring software Engineer | Full Stack Developer  
 
 ---
 
