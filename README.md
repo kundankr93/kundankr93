@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kundan Kumar
 
-🎓 B.Tech IT (3rd Year) | NIT Raipur  
+🎓 B.Tech IT (4th Year) | NIT Raipur  
 💻 Aspiring software Engineer | Full Stack Developer  
 
 ---
@@ -39,15 +39,17 @@
 
 ## 📌 Projects
 
+### 🎮 Alumni Connect
+- Interactive browser-based game  
+- Focus on logic building and UI  
+- 🔗 [Live Demo](https://alumniconnect-frontend-d2uw.onrender.com)  
+- 🔗 [Repository](https://github.com/kundankr93/Alumni-Connect)
+
 ### 🎮 Connect 4 Game
 - Interactive browser-based game  
 - Focus on logic building and UI  
 - 🔗 [Live Demo](https://kundankr93.github.io/CONNECT-4/)  
 - 🔗 [Repository](https://github.com/kundankr93/CONNECT-4)
-
-### 🛒 E-Commerce Website
-- Full stack app with product listing, cart, and backend  
-- (Add your repo link here)
 
 ### ✅ To-Do List App
 - Task manager with CRUD operations  
@@ -61,7 +63,7 @@
 
 ## 🧠 DSA
 
-- Solved **300+ problems** across platforms  
+- Solved **400+ problems** across platforms  
 - Strong in **arrays, recursion, graphs, trees, DP basics**  
 
 🔗 LeetCode Profile:  
