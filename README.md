@@ -43,7 +43,7 @@
 - Interactive browser-based game  
 - Focus on logic building and UI  
 - 🔗 [Live Demo](https://alumniconnect-frontend-d2uw.onrender.com)  
-- 🔗 [Repository](https://github.com/kundankr93/Alumni-Connect)
+- 🔗 [Repository](https://github.com/kundankr93/AlumniConnect)
 
 ### 🎮 Connect 4 Game
 - Interactive browser-based game  
