@@ -21,18 +21,22 @@
 ### 🚀 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=yellow)
+
+---
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.JS](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
@@ -40,10 +44,16 @@
 ## 📌 Projects
 
 ### 🎮 Alumni Connect
-- Interactive browser-based game  
+- Interactive browser-based Application  
 - Focus on logic building and UI  
 - 🔗 [Live Demo](https://alumniconnect-frontend-d2uw.onrender.com)  
 - 🔗 [Repository](https://github.com/kundankr93/AlumniConnect)
+
+### 🎮 CodeCollab
+- Real-time Collaborative Coding Platform  
+- Focus on logic building and UI  
+- 🔗 [Live Demo](https://codecollab-frontend-1nq4.onrender.com/login)  
+- 🔗 [Repository](https://github.com/kundankr93/CodeCollab)
 
 ### 🎮 Connect 4 Game
 - Interactive browser-based game  
@@ -63,11 +73,27 @@
 
 ## 🧠 DSA
 
-- Solved **400+ problems** across platforms  
-- Strong in **arrays, recursion, graphs, trees, DP basics**  
+- Solved **500+ problems** across platforms  
 
 🔗 LeetCode Profile:  
 👉 https://leetcode.com/u/kundan93/
+
+🔗 CodeChef Profile:
+👉 https://www.codechef.com/users/kundan093
+
+🔗 CodeForces Profile:
+👉 https://codeforces.com/profile/kundan93
+
+---
+
+## 🧠 Core CS 
+  
+👉 OOPS
+👉 DBMS
+👉 Operating Systems
+👉 Computer Networks
+👉 Data Structures & Algorithms
+👉 System Design
 
 ---
 
@@ -86,9 +112,3 @@
 
 ---
 
-
-## 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=kundankr93&theme=onestar&margin-w=10)
-
----
