@@ -76,6 +76,7 @@
 - Solved **500+ problems** across platforms  
 
 🔗 LeetCode Profile:  
+
 👉 https://leetcode.com/u/kundan93/
 
 🔗 CodeChef Profile:
@@ -90,12 +91,12 @@
 
 ## 🧠 Core CS 
   
-👉 OOPS
-👉 DBMS
-👉 Operating Systems
-👉 Computer Networks
-👉 Data Structures & Algorithms
-👉 System Design
+1.  OOPS 
+2.  DBMS 
+3.  Operating Systems 
+4.  Computer Networks 
+5.  Data Structures & Algorithms 
+6.  System Design 
 
 ---
 
